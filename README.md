@@ -1,6 +1,6 @@
 # Corrective RAG (CRAG) with LangGraph
 
-A LangGraph implementation of the [CRAG paper](https://arxiv.org/pdf/2401.15884) — a self-correcting RAG pipeline that evaluates retrieved documents before using them for generation.
+A LangGraph implementation of the [CRAG paper](https://arxiv.org/pdf/2401.15884), a self-correcting RAG pipeline that evaluates retrieved documents before using them for generation.
 
 Instead of blindly trusting every retrieved document, CRAG adds a quality gate that scores each document and decides whether to use it, discard it, search the web, or do both.
 
@@ -61,5 +61,6 @@ Open the Jupyter notebook and run all cells top to bottom. The first run will ta
 - [CRAG Paper — Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [CampusX Youtube](https://www.youtube.com/watch?v=41XDn81nR5c)
+
 
 
