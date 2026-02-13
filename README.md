@@ -60,5 +60,6 @@ Open the Jupyter notebook and run all cells top to bottom. The first run will ta
 
 - [CRAG Paper — Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
-- [CAMPUSX YOUTUBE CODE](https://www.youtube.com/watch?v=41XDn81nR5c)
+- [CampusX Youtube](https://www.youtube.com/watch?v=41XDn81nR5c)
+
 
